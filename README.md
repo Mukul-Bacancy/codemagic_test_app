@@ -1,5 +1,7 @@
 # codemagic_test_app
 
+#Hello Code Magic Test
+
 A new Flutter project.
 
 ## Getting Started
